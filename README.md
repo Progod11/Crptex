@@ -1,2 +1,0 @@
-# Crptex
-crypto website
